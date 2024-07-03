@@ -58,15 +58,15 @@
 		<string id="STR_COUNTER_BOOKMARK_N" value=" zakładek" />
 		<string id="STR_COUNTER_BOOKMARK_1" value="1 zakładka" />
 		<string id="STR_COUNTER_BOOKMARK_0" value="Brak zakładek" />
-		<string id="STR_COUNTER_ITEM_N" value=" items" />
-		<string id="STR_COUNTER_ITEM_1" value="1 item" />
-		<string id="STR_COUNTER_ITEM_0" value="No items" />
+		<string id="STR_COUNTER_ITEM_N" value=" elementy" />
+		<string id="STR_COUNTER_ITEM_1" value="1 element" />
+		<string id="STR_COUNTER_ITEM_0" value="Brak elementów" />
 		<string id="STR_COUNTER_PAGE_N" value=" stron" />
 		<string id="STR_COUNTER_PAGE_1" value="1 strona" />
 		<string id="STR_COUNTER_PAGE_0" value="Brak stron" />
-		<string id="STR_COUNTER_UTILITIES_N" value=" utilities" />
-		<string id="STR_COUNTER_UTILITIES_1" value="1 utility" />
-		<string id="STR_COUNTER_UTILITIES_0" value="No utilities" />
+		<string id="STR_COUNTER_UTILITIES_N" value=" narzędzi" />
+		<string id="STR_COUNTER_UTILITIES_1" value="1 narzędzie" />
+		<string id="STR_COUNTER_UTILITIES_0" value="Brak narzędzi" />
 		<string id="STR_COUNTER_BOOK_N" value=" książek" />
 		<string id="STR_COUNTER_BOOK_1" value="1 książka" />
 		<string id="STR_COUNTER_BOOK_0" value="Brak książek" />
@@ -82,7 +82,7 @@
 		<string id="STR_COUNTER_PICTURE_0" value="Brak obrazów" />
 		<string id="STR_COUNTER_SETTING_N" value=" ustawień" />
 		<string id="STR_COUNTER_SETTING_1" value="1 ustawienie" />
-		<string id="STR_COUNTER_SETTING_0" value="0 ustawień" />
+		<string id="STR_COUNTER_SETTING_0" value="Brak ustawień" />
 		<string id="STR_UI_BUTTON_OK" value="OK" />
 		<string id="STR_UI_BUTTON_On" value="Tak" />
 		<string id="STR_UI_BUTTON_Off" value="Nie" />
@@ -108,10 +108,10 @@
 		<string id="STR_UI_MESSAGE_INVALIDFORMAT" value="Niepoprawny Format!" />
 		<string id="STR_UI_MESSAGE_FORMATTING" value="Formatowanie..." />
 		<string id="STR_UI_MESSAGE_DRMRESTRICTED" value="Zastrzeżony" />
-		<string id="STR_UI_MESSAGE_DRMFULL" value="Full, viewable" />
+		<string id="STR_UI_MESSAGE_DRMFULL" value="Pełny, widoczny " />
 		<string id="STR_UI_MESSAGE_LOCATIONMEMORYCARD" value="Karta Pamięci" />
 		<string id="STR_UI_MESSAGE_LOCATIONINTERNAL" value="Pamięć wewnętrzna" />
-		<string id="STR_UI_MESSAGE_DRMEXPIRED" value="Expired" />
+		<string id="STR_UI_MESSAGE_DRMEXPIRED" value="Wygasł" />
 		<string id="STR_UI_MESSAGE_DRMTODAY" value="Dziś" />
 		<string id="STR_UI_MESSAGE_FORMATTINGINTERNALMEMORY" value="Formatowanie Pamięci Wewnętrznej..." />
 		<string id="STR_UI_MESSAGE_SHUTTINGDOWN" value="Wyłączanie..." />
